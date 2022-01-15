@@ -35,13 +35,21 @@ exit
 Go to https://github.com/microsoftarchive/redis/releases to Download .msi file.
 
 By Default Redis Server runs on the port 6379.
+
 Let’s Open the redis-cli and interact with the server.
+
 C:\Program Files\Redis\redis-cli.exe
+
 Double click the redis-cli.exe to start the client interface.
+
 Test Redis
+
 127.0.0.1:6379> ping
+
 PONG
+
 127.0.0.1:6379>
+
 test redis: redis-cli ping. and you will recieve PONG in response
 
 4. php artisan queue:work
