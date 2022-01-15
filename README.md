@@ -31,7 +31,9 @@ exit
 2.  Visit localhost:8000 in your browser
 
 3. Install Redis :
+
 Go to https://github.com/microsoftarchive/redis/releases to Download .msi file.
+
 By Default Redis Server runs on the port 6379.
 Let’s Open the redis-cli and interact with the server.
 C:\Program Files\Redis\redis-cli.exe
